@@ -1,0 +1,6 @@
+<epcisq:QueryParameterException
+    xmlns:epcisq="urn:epcglobal:epcis-query:xsd:1">
+    <reason>
+        Integer value required for parameter 'GE_quantity'
+    </reason>
+</epcisq:QueryParameterException>

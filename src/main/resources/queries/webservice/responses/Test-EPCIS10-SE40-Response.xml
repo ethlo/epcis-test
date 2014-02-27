@@ -1,0 +1,4 @@
+<epcisq:QueryTooLargeException
+    xmlns:epcisq="urn:epcglobal:epcis-query:xsd:1">
+    <reason>Query is too large. Maximum was 10</reason>
+</epcisq:QueryTooLargeException>

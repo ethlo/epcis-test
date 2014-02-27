@@ -1,0 +1,14 @@
+<epcisq:Poll xmlns:epcisq="urn:epcglobal:epcis-query:xsd:1">
+    <queryName>SimpleEventQuery</queryName>
+    <params>
+        <param>
+            <name>GE_eventTime</name>
+            <!-- 5 minutes after Commission Cases step -->
+            <value>2006-06-25T01:45:00Z</value>
+        </param>
+        <param>
+            <name>eventCountLimit</name>
+            <value>1000</value>
+        </param>
+    </params>
+</epcisq:Poll>

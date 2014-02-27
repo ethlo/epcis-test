@@ -1,0 +1,16 @@
+<epcisq:QueryResults xmlns:epcisq="urn:epcglobal:epcis-query:xsd:1">
+    <queryName>SimpleMasterDataQuery</queryName>
+    <resultsBody>
+        <VocabularyList>
+            <Vocabulary type="urn:epcglobal:epcis:vtype:BusinessStep">
+                <VocabularyElementList>
+                    <VocabularyElement id="urn:epcglobal:cbv:bizstep:commissioning" />
+                    <VocabularyElement id="urn:epcglobal:cbv:bizstep:casetopalletaggregation" />
+                    <VocabularyElement id="urn:epcglobal:cbv:bizstep:receiving" />
+                    <VocabularyElement id="urn:epcglobal:cbv:bizstep:picking" />
+                    <VocabularyElement id="urn:epcglobal:cbv:bizstep:shipping" />
+                </VocabularyElementList>
+            </Vocabulary>
+        </VocabularyList>
+    </resultsBody>
+</epcisq:QueryResults>

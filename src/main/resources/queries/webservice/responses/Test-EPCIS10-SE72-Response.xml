@@ -1,0 +1,5 @@
+<epcisq:QueryParameterException xmlns:epcisq="urn:epcglobal:epcis-query:xsd:1">
+	<reason>
+		Duplicate parameter EQ_bizStep
+    </reason>
+</epcisq:QueryParameterException>
